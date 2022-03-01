@@ -7,20 +7,29 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+<p>
+  <span=width: 100px; heigtht:100px; "background:yellow; color:red</span></p>
+  
+  
+  
 }
-
 
 /* Ejercicio 2: Posicionar el header */
 
 /* Acá va tu código */
-
-
+header{
+  widt:100px;heigth:80px;background:orange;}
 
 /* Ejercicio 3: */
 
-/* Acá va tu código */
-
+/* Acá va tu código:
+<body><h1>Etiqueta span</h1>
+<p>"arrancaremos este ejercicio por voz"
+<span class="los">ROJO</span>,
+<span class="ejercicios">NARANJA </span/>.
+</p>
+</body>
+</html>
 
 
 /* Ejercicio 4: */
