@@ -151,6 +151,7 @@ function diaDeLaSemana(numeroDeDia) {
   //si el día corresponde a Sábado o Domingo y “Es dia Laboral” en caso contrario. 
   //Escribe tu código aquí   
 
+
   if(numeroDeDia === 1 || numeroDeDia === 7){
     return "Es fin de semana";
   }else if(numeroDeDia >  numeroDeDia < 7){
@@ -190,7 +191,7 @@ function mesesDelAño(array) {
   //Dado un array que contiene algunos meses del año desordenados, recorrer el array buscando los meses de 
   // "Enero", "Marzo" y "Noviembre", guardarlo en nuevo array y retornarlo.
   //Si alguno de los meses no está, devolver: "No se encontraron los meses pedidos"
-  // Tu codigo;
+  // Tu codigo:
 
   var arrayResultado = [];
   for(var i = 0 ; i < array.length ; i++){
